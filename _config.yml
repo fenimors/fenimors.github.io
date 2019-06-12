@@ -16,8 +16,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Sam Fenimore'
-  url:            sam.fenimore.net
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 paginate_path:    '/blog/page:num'
